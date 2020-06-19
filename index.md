@@ -8,3 +8,5 @@ Kermit der Frosch ist Intendant des bekannten Muppet-Theaters. Als Gastdozent is
 * erfahrener Moderator
 * liberaler Führungsstil
 * immer freundlich
+
+> Applaus Applaus
