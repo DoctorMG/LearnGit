@@ -10,3 +10,5 @@ Kermit der Frosch ist Intendant des bekannten Muppet-Theaters. Als Gastdozent is
 * immer freundlich
 
 > Applaus Applaus
+
+<img src="https://www.4freephotos.com/ger/medium/Frog--.jpg"/>
